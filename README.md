@@ -2,7 +2,7 @@
 Basic Conda based Binder
 
 py39_r40_shiny
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattmcfa171/shiny_app_1/py39_r40_shiny?urlpath=shiny)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattmcfa171/shiny_app_1/master?urlpath=shiny)
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/mattmcfa171/shiny_app_1/master?urlpath=lab)
