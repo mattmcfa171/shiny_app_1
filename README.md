@@ -1,5 +1,8 @@
-# R + Python Binder Example
+# conda_binder
+Basic Conda based Binder
 
+py39_r40_shiny
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattmcfa171/shiny_app_1/py39_r40_shiny?urlpath=shiny)
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/mattmcfa171/shiny_app_1/master?urlpath=lab)
@@ -40,3 +43,4 @@ Modify the files in the `binder` sub-directory to specify required dependencies 
 
  - modify the following link to launch your repo in an RStudio binder (`USER`, `REPO`, `BRANCH`): `http://mybinder.org/v2/gh/USER/REPO/BRANCH?urlpath=rstudio`
  - modify the following markdown code to create a launch badge like the one at the top of this README: `[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/USER/REPO/BRANCH?urlpath=rstudio)`
+
