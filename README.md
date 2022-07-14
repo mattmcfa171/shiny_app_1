@@ -1,3 +1,6 @@
+# Final project is linear_model_app.R
+
+
 # conda_binder
 Basic Conda based Binder
 
